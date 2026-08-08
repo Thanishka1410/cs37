@@ -707,7 +707,7 @@ export default function CommunityHome() {
                 My contributions
               </Link>
               <Link
-                href="/community/ask"
+                href="/ask"
                 className="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-accent text-background font-medium hover:bg-accent-hover transition-colors shadow-lg shadow-accent/20"
               >
                 <Plus size={18} />
@@ -820,7 +820,7 @@ export default function CommunityHome() {
               discussion.
             </p>
             <Link
-              href="/community/ask"
+              href="/ask"
               className="text-sm text-accent hover:underline"
             >
               Ask a question →
